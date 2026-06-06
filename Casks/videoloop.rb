@@ -1,6 +1,6 @@
 cask "videoloop" do
-  version "1.0.0"
-  sha256 "90742a6725c81fa9f5f274a16589a0c063a1da6549c09c193378feffd1b36e48"
+  version "1.1.0"
+  sha256 "37aa2f1341fab0e9c41003120caec0acbe85a177b9dfd1ae4ec10de53df40c24"
 
   url "https://github.com/neias/video-loop-mac/releases/download/v#{version}/VideoLoop-#{version}.zip"
   name "VideoLoop"
