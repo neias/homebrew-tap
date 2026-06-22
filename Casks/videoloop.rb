@@ -8,7 +8,7 @@ cask "videoloop" do
   homepage "https://github.com/neias/video-loop-mac"
 
   depends_on formula: "ffmpeg"
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "VideoLoop.app"
 
